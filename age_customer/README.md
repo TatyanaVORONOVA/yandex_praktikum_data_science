@@ -32,7 +32,7 @@
 - numpy
 - PIL Image
 - tensorflow.keras
-- matplotlib.pyplot as plt
+- matplotlib
 - seaborn
 
 ## Выводы по проекту
