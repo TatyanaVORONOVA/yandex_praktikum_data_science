@@ -60,4 +60,4 @@
 
 **Параметры лучшей модели:**
 
-clf = RandomForestClassifier(random_state=12345, max_depth=9, min_samples_leaf=1, min_samples_split=3, n_estimators=22, class_weight={0:0.2, 1:0.8}) clf.fit(features_train_concat, target_train_concat)
+clf = RandomForestClassifier(random_state=12345, max_depth=9, min_samples_leaf=1, min_samples_split=3, n_estimators=22, class_weight={0:0.2, 1:0.8}) 
